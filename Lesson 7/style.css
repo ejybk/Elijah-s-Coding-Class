@@ -1,0 +1,19 @@
+h3 {
+    color: blue;
+    text-align: center;
+}
+
+/*Applying style to id selector*/
+#myid1 {
+    color: aquamarine;
+}
+
+#myid2 {
+    color: brown;
+}
+
+/*Applying style to class selector*/
+.myclass1 {
+    color: rgb(114, 8, 196);
+    text-align: right;
+}
